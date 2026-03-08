@@ -12,17 +12,22 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
   
 ### 🔬 Peer-Reviewed Publications & Proceedings
 
-* **TinyML Human Activity Recognition:** * **Title:** *"TinyML-Based Lightweight Deep Learning Model for Human Activity Recognition on Edge Devices"*
+* **TinyML Human Activity Recognition:** => **Title:** *"TinyML-Based Lightweight Deep Learning Model for Human Activity Recognition on Edge Devices"*
     * **Status:** **In Press / To Appear** (Accepted and Presented at the 7th World Conference on Artificial Intelligence: WCAIAA 2026)
     * **Role:** Lead Author
     * **Impact:** Developed an optimized 1D-CNN model (<1.5 MB) for ARM-based edge devices with ≈92% accuracy.
 
-* **Hybrid Agricultural Analytics:** * **Title:** *"A Hybrid Deep Learning Approach for Automated Plant Disease Diagnosis in Indian Ridge Gourd: Dataset Crea-tion and Real-World Application"*
+* **Hybrid Agricultural Analytics:** => **Title:** *"A Hybrid Deep Learning Approach for Automated Plant Disease Diagnosis in Indian Ridge Gourd: Dataset Crea-tion and Real-World Application"*
     * **Status:** **Presented & In Press** (Presented at MIND 2025, MNIT Jaipur; to appear in Scopus-indexed Springer volume)
     * **Role:** Second Author & Main Presenter
       
-* **Datasets:** 1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads.
-                2) **Brinjal Dataset:** Featured in **Mendely Data** with Data in Brief Paper(In Press).
+* **Book Chapter (In Review)**: A Comprehensive Review and Bibliometric Analysis of Deep Learning Applications in Plant Disease Detection.
+   **Venue**: Target publication in a Taylor & Francis CRC Press edited volume.
+   **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
+      
+* **Datasets:**
+   1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads.
+   2) **Brinjal Dataset:** Featured in **Mendely Data** with Data in Brief Paper(In Press).
 
 ---
 ⚽ Featured Ongoing Research:
