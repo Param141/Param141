@@ -2,7 +2,7 @@
 
 I am an **AI/ML Researcher and Computer Science Engineer** driven by the intersection of **Applied Mathematics, Deep Learning, and Quantitative Finance**. My technical focus lies in building high-performance, real-world systems—ranging from edge-optimized **TinyML** architectures to **Computer Vision** frameworks for real-time analytics.
 
-Currently pursuing my B.Tech at **BIT Mesra**, I am deeply interested in **Probabilistic Modeling, Optimization, and Stochastic Processes**. My goal is to apply rigorous mathematical theory to impactful problems, whether in advanced AI research labs or the high-frequency trading (HFT) sector..
+Currently pursuing my B.Tech at **BIT Mesra**, I am deeply interested in **Probabilistic Modeling, Optimization, and Stochastic Processes**. My goal is to apply rigorous mathematical theory to impactful problems, whether in advanced AI research labs or the high-frequency trading (HFT) sector.
 
 ---
 
@@ -20,12 +20,13 @@ Currently pursuing my B.Tech at **BIT Mesra**, I am deeply interested in **Proba
 * **Hybrid Agricultural Analytics:** * **Title:** *"A Hybrid Deep Learning Approach for Automated Plant Disease Diagnosis in Indian Ridge Gourd: Dataset Crea-tion and Real-World Application"*
     * **Status:** **Presented & In Press** (Presented at MIND 2025, MNIT Jaipur; to appear in Scopus-indexed Springer volume)
     * **Role:** Second Author & Main Presenter
-    * **Proof:** [Link to your Presentation Certificate or Photo in a 'Certificates' folder]
-* **Datasets:** * **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 260+  5 Star⭐ ratings and over 60 downloads.
+      
+* **Datasets:** 1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads.
+                2) **Brinjal Dataset:** Featured in **Mendely Data** with Data in Brief Paper(In Press).
 
 ---
-⚽ Featured Ongoing Research: Soccerlytics++
-A Deep-Vision Framework for Real-Time Football Analytics
+⚽ Featured Ongoing Research:
+Soccerlytics++ : A Deep-Vision Framework for Real-Time Football Analytics
 Objective: Developing an automated pipeline for high-fidelity tactical analysis from broadcast-style football footage.
 
 Core Innovations:
