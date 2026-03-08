@@ -2,7 +2,7 @@
 
 I am an **AI/ML Researcher and Computer Science Engineer** driven by the intersection of **Applied Mathematics, Deep Learning, and Quantitative Finance**. My technical focus lies in building high-performance, real-world systems—ranging from edge-optimized **TinyML** architectures to **Computer Vision** frameworks for real-time analytics.
 
-Currently pursuing my B.Tech at **BIT Mesra**, I am deeply interested in **Probabilistic Modeling, Optimization, and Stochastic Processes**. My goal is to apply rigorous mathematical theory to impactful problems, whether in advanced AI research labs or the high-frequency trading (HFT) sector.
+Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply interested in **Probabilistic Modeling, Optimization, and Stochastic Processes**. My goal is to apply rigorous mathematical theory to impactful problems, whether in advanced AI research labs or the high-frequency trading (HFT) sector.
 
 ---
 
