@@ -1,4 +1,4 @@
-<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/402de8ca-1a8a-48b6-bac5-e787c7e0b095" /># Hi, I'm Param Sharma 👋
+# Hi, I'm Param Sharma 👋
 
 I am an **AI/ML Researcher and Computer Science Engineer** driven by the intersection of **Applied Mathematics, Deep Learning, and Quantitative Finance**. My technical focus lies in building high-performance, real-world systems—ranging from edge-optimized **TinyML** architectures to **Computer Vision** frameworks for real-time analytics.
 
