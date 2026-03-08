@@ -22,9 +22,9 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
     * **Role:** Second Author & Main Presenter
       
 * **Book Chapter (In Review)**:
-    A Comprehensive Review and Bibliometric Analysis of Deep Learning Applications in Plant Disease Detection.
-   **Venue**: Target publication in a Taylor & Francis CRC Press edited volume.
-   **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
+   * A Comprehensive Review and Bibliometric Analysis of Deep Learning Applications in Plant Disease Detection.
+   * **Venue**: Target publication in a Taylor & Francis CRC Press edited volume.
+   * **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
       
 * **Datasets:**
    1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads.
