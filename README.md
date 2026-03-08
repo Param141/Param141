@@ -1,4 +1,4 @@
-# Hi, I'm Param Sharma 👋
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/402de8ca-1a8a-48b6-bac5-e787c7e0b095" /># Hi, I'm Param Sharma 👋
 
 I am an **AI/ML Researcher and Computer Science Engineer** driven by the intersection of **Applied Mathematics, Deep Learning, and Quantitative Finance**. My technical focus lies in building high-performance, real-world systems—ranging from edge-optimized **TinyML** architectures to **Computer Vision** frameworks for real-time analytics.
 
@@ -27,8 +27,8 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
    * **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
       
 * **Datasets:**
-   1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads.
-   2) **Brinjal Dataset:** Featured in **Mendely Data** with Data in Brief Paper(In Press).
+   1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads. [Link](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
+   2) **Brinjal Dataset:** Featured in **Mendely Data** with Data in Brief Paper(In Press).[Link](https://data.mendeley.com/datasets/9zgv9yp68g/1)
 
 ---
 ⚽ Featured Ongoing Research:
