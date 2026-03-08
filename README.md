@@ -8,7 +8,7 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
 
 ### 🔬 Research & Intellectual Property
 
-* **Patents:** => **Design Patent:** *Internet of Things Based Device for Real-Time Data Collection and Augmentation for Plant and Agricultural Samples.* Granted by Government of India in December 2025
+* **Patents:** => * **Design Patent:** *Internet of Things Based Device for Real-Time Data Collection and Augmentation for Plant and Agricultural Samples.Granted by Government of India in December 2025* [[View Patent Design](./certificates/Design%20Certificate%20476293-001.pdf)] 
   
 ### 🔬 Peer-Reviewed Publications & Proceedings
 
