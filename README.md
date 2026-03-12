@@ -28,7 +28,7 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
       
 * **Datasets:**
    1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads. [Link](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
-   2) **Brinjal Dataset:** Uploaded on **Mendely Data** with Data in Brief Paper(In Press).[Link](https://data.mendeley.com/datasets/9zgv9yp68g/1)
+   2) **Brinjal Dataset:** Uploaded on **Mendely Data** with Data in Brief Paper(In Press).[Link](https://data.mendeley.com/datasets/c39p3k87g2/1)
 
 ---
 ⚽ Featured Ongoing Research:
