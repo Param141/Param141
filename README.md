@@ -27,7 +27,7 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
    * **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
       
 * **Datasets:**
-   1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 270+ 5 Star⭐ ratings and over 60 downloads. [Link](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
+   1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 280+ 5 Star⭐ ratings and over 62 downloads. [Link](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
    2) **Brinjal Dataset:** Uploaded on **Mendely Data** with Data in Brief Paper(In Press).[Link](https://data.mendeley.com/datasets/c39p3k87g2/1)
 
 ---
