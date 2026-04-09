@@ -17,7 +17,7 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
     * **Role:** Lead Author
     * **Impact:** Developed an optimized 1D-CNN model (<1.5 MB) for ARM-based edge devices with ≈92% accuracy.
 
-* **Hybrid Agricultural Analytics:** => **Title:** *"A Hybrid Deep Learning Approach for Automated Plant Disease Diagnosis in Indian Ridge Gourd: Dataset Crea-tion and Real-World Application"*
+* **Hybrid Agricultural Analytics:** => **Title:** *"A Hybrid Deep Learning Approach for Automated Plant Disease Diagnosis in Indian Ridge Gourd: Dataset Creation and Real-World Application"*
     * **Status:** **Presented & In Press** (Presented at MIND 2025, MNIT Jaipur; to appear in Scopus-indexed Springer volume)
     * **Role:** Second Author & Main Presenter
       
