@@ -21,11 +21,11 @@ Currently pursuing my B.Tech in Computer Science at **BIT Mesra**, I am deeply i
     * **Status:** **Presented & In Press** (Presented at MIND 2025, MNIT Jaipur; to appear in Scopus-indexed Springer volume)
     * **Role:** Second Author & Main Presenter
       
-* **Book Chapter (In Review)**:
-   * A Comprehensive Review and Bibliometric Analysis of Deep Learning Applications in Plant Disease Detection.
-   * **Venue**: Target publication in a Taylor & Francis CRC Press edited volume.
-   * **Role**:  Main Author; conducted extensive literature synthesis and bibliometric mapping of SOTA deep learning architectures in agritech.
-      
+* **Journal Article (Under Review): “A Comprehensive Review and Bibliometric Analysis of Deep Learning Applications in Plant Disease Detection”
+* Venue: Discover Artificial Intelligence (Springer).
+* Role: Lead Author; conducted comprehensive multi-decade literature synthesis and bibliometric mapping (VOSviewer) tracking structural shifts, key performance benchmarks, and evolution trends of SOTA deep learning architectures in agritech.
+* 
+
 * **Datasets:**
    1) **Ridge Gourd Dataset:** Featured in **IEEE DataPort August Newsletter**; DOI-published with 336+ 5 Star⭐ ratings and over 9000+ downloads. [Link](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
    2) **Brinjal Dataset:** Uploaded on **Mendely Data** with Data in Brief Paper(In Press).[Link](https://data.mendeley.com/datasets/c39p3k87g2/1)
