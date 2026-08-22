@@ -61,7 +61,7 @@ Current Status: Finalizing the manuscript for submission to a Scopus-indexed jou
 * **Google Scholar:** [https://scholar.google.com/citations?user=2Omc3a8AAAAJ&hl=en]
 * **ORCID:** [https://orcid.org/0009-0005-7308-6401]
 * **LinkedIn:** [https://www.linkedin.com/in/param-sharma-26949a2a3/]
-* **Personal Website:** [https://param141.github.io/portfolio-website.github.io/]
+* **Personal Website:** [https://param141.github.io/]
 <!--
 **Param141/Param141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
